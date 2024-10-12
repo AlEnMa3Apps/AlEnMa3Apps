@@ -40,9 +40,9 @@ We are a group of three enthusiastic cross platform development students, each b
 ### Technologies
 
 <p align="left">
-<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" width="80" height="80" alt="CSS3" /></a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="80" height="80" alt="React" /></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="80" height="80"/></a>
+<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" width="80" height="80" alt="electronjs" /></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="80" height="80" alt="React Native" /></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="80" height="80"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="80" height="80" alt="Git" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="80" height="80" alt="MySQL" /></a>
 </p>
